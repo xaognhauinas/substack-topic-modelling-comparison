@@ -189,6 +189,18 @@ The dataset is licensed under CC BY 4.0, which requires attribution.
 
 **Access the dataset:** [Kaggle Substack Dataset](https://www.kaggle.com/datasets/reja37/substack-newsletter-articles-and-metadata-3-5m/data)
 
+### Project Citation
+If you use this project in research, please cite:
+
+```bibtex
+@project{substack_topic_modelling_2026,
+  title={Substack Topic Modelling Comparison},
+  author={xaognhauinas},
+  year={2026},
+  url={https://github.com/xaognhauinas/substack-topic-modelling-comparison}
+}
+```
+
 ## Troubleshooting
 
 ### SpaCy Model Not Found

@@ -1,7 +1,10 @@
 [project]
 name = "substack-topics"
 version = "0.1.0"
-requires-python = ">=3.10"
+description = "Comparative analysis of topic modelling approaches on 3.5M Substack posts"
+authors = [{name = "xaognhauinas", email = ""}]
+license = {text = "MIT"}
+requires-python = "3.12"
 dependencies = [
     "pandas", 
     "numpy", 
@@ -18,8 +21,16 @@ dependencies = [
     "beautifulsoup4", 
     "matplotlib", 
     "seaborn",
+    "plotly",
+    "streamlit",
+    "python-dotenv",
+    "pyprojroot",
     "ipykernel",
 ]
+
+[project.urls]
+Homepage = "https://github.com/xaognhauinas/substack-topic-modelling-comparison"
+Repository = "https://github.com/xaognhauinas/substack-topic-modelling-comparison"
 
 [build-system]
 requires = ["setuptools>=68"]
