@@ -1,0 +1,12 @@
+statistic,publication_domain,post_title,article_url,author_name,publish_date,subtitle_summary,title_char_length,title_word_count,has_subtitle,category
+count,3513881,3513881,3513881,3513881,3513881,3513881,3513881.0,3513881.0,3513881.0,3513881
+unique,229424,3321926,3513881,223407,,3267858,,,,11
+top,https://mobydicksummer.substack.com,Coming soon,https://janethull.substack.com/p/when-you-break-the-holiday-rules,Unknown,,<p></p>,,,,General & Uncategorized
+freq,50,19398,1,115441,,3530,,,,1299846
+mean,,,,,2025-09-20 06:47:22.273352,,38.71285823282006,6.663789126609581,0.9998064817789789,
+min,,,,,0001-03-08 08:50:02,,0.0,1.0,0.0,
+25%,,,,,2025-05-22 17:17:32,,22.0,4.0,1.0,
+50%,,,,,2026-03-15 14:31:06,,34.0,6.0,1.0,
+75%,,,,,2026-07-20 17:38:33,,50.0,9.0,1.0,
+max,,,,,2026-09-29 04:55:41,,255.0,120.0,1.0,
+std,,,,,,,22.94511719541891,3.904495504682283,0.013909738559050566,

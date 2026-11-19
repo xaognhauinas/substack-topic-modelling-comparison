@@ -1,0 +1,11 @@
+column,dtype,non_null,null,unique
+publication_domain,object,3513881,0,229424
+post_title,object,3513881,0,3321926
+article_url,object,3513881,0,3513881
+author_name,object,3513881,0,223407
+publish_date,datetime64[us],3513881,0,3210774
+subtitle_summary,object,3513881,0,3267858
+title_char_length,int64,3513881,0,250
+title_word_count,int64,3513881,0,76
+has_subtitle,int32,3513881,0,2
+category,object,3513881,0,11

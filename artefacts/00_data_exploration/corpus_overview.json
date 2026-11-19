@@ -1,0 +1,25 @@
+{
+  "raw_posts": 3513881,
+  "publications": 229424,
+  "authors": 223407,
+  "categories": 11,
+  "date_min": "0001-03-08",
+  "date_max": "2026-09-29",
+  "launch_date": "2017-10-16",
+  "posts_before_launch": 878,
+  "publications_before_launch": 194,
+  "posts_per_publication": {
+    "mean": 15.316100320803404,
+    "min": 1.0,
+    "25%": 10.0,
+    "50%": 20.0,
+    "75%": 20.0,
+    "max": 50.0
+  },
+  "gini_posts_per_publication": 0.215,
+  "gini_posts_per_category": 0.551,
+  "removed_by_language": 561704,
+  "pct_removed_by_language": 16.0,
+  "cleaned_posts": 2854647,
+  "pct_cleaned_posts": 81.2
+}

@@ -1,0 +1,5 @@
+metric,rows,pct_share
+keyword-flagged low-information posts (announcement and recruitment),24182,0.688
+slug-flagged low-information posts (announcement and recruitment),32558,0.927
+empty-slug posts,606,0.017
+either,34871,0.992

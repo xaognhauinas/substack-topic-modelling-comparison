@@ -1,0 +1,9 @@
+statistic,combined_text_word_count
+count,3513881.0
+mean,20.50948509639342
+std,75.88850857059317
+min,1.0
+50%,16.0
+90%,33.0
+99%,57.0
+max,63129.0

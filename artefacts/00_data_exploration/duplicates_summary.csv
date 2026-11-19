@@ -1,0 +1,10 @@
+metric,rows,pct_share
+1. Duplicate Article URLs,0,0.0
+2. Exact Clones (Publication + Exact Title + Exact Subtitle),13187,0.375
+3. Exact Clones After Taking Series into Account (Publication + Exact Title + Exact Subtitle),61166,1.741
+4. Recurring Publication Titles (Same Titles within a Publication),59408,1.691
+5. Recurring Publication Titles After Taking Series into Account (Same Titles within a Publication),208474,5.933
+6. Shared Title + Subtitle Patterns (Across Different Publications),18669,0.531
+7. Duplicated Titles Globally,191640,5.454
+8. Duplicated Subtitles Globally,243766,6.937
+9. Duplicated URL Slugs Globally,252188,7.177

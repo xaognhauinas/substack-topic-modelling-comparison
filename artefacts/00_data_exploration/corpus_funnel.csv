@@ -1,0 +1,7 @@
+step,remaining,dropped,dropped_pct_of_previous,remaining_pct_of_raw
+Raw dataset,3513881,0,0.0,100.0
+Date window (2018 onwards),3512916,965,0.027,99.97
+English & Latin script,2951312,561604,15.987,83.99
+Recurring series / exact clones,2900922,50390,1.707,82.56
+Low information posts (Announcement and Recruitment),2868772,32150,1.108,81.64
+Letter-poor or under 4 words,2854647,14125,0.492,81.24

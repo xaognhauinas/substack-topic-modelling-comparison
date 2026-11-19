@@ -1,0 +1,13 @@
+metric,count_false,count_true,pct_false,pct_true
+combined_text_has_html,2946317,567564,83.85,16.15
+subtitle_summary_has_html,2946322,567559,83.85,16.15
+combined_text_has_emoji,3367561,146320,95.84,4.16
+post_title_has_emoji,3407685,106196,96.98,3.02
+subtitle_summary_has_emoji,3460104,53777,98.47,1.53
+subtitle_summary_is_letter_poor,3476065,37816,98.92,1.08
+post_title_is_letter_poor,3488931,24950,99.29,0.71
+combined_text_is_letter_poor,3506543,7338,99.79,0.21
+post_title_has_html,3513875,6,100.0,0.0
+post_title_has_mojibake,3513881,0,100.0,0.0
+subtitle_summary_has_mojibake,3513881,0,100.0,0.0
+combined_text_has_mojibake,3513881,0,100.0,0.0

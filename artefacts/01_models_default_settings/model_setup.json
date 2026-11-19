@@ -1,0 +1,13 @@
+{
+  "models_compared": 4,
+  "modelled_posts": 285465,
+  "modelled_publications": 138841,
+  "modelled_fraction": 0.1,
+  "target_num_topics": 20,
+  "top_n_words_extracted": 30,
+  "top_n_words_scored": 10,
+  "seed": 0,
+  "n_coherence_reference_docs": 200000,
+  "reference_embeddings_model": "all-mpnet-base-v2",
+  "word_vectors": "GloVe embeddings (100 dimensions)"
+}
