@@ -31,6 +31,7 @@ dependencies = [
 [project.urls]
 Homepage = "https://github.com/xaognhauinas/substack-topic-modelling-comparison"
 Repository = "https://github.com/xaognhauinas/substack-topic-modelling-comparison"
+"Live Demo" = "https://substack-topic-modelling-comparison-a9tahluuxg8pvf8grjzzwc.streamlit.app/"
 
 [build-system]
 requires = ["setuptools>=68"]

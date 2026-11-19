@@ -1,5 +1,7 @@
 # Substack Topic Modelling Comparison
 
+**[🚀 View Live Demo](https://substack-topic-modelling-comparison-a9tahluuxg8pvf8grjzzwc.streamlit.app/)**
+
 ## Overview
 
 This project evaluates and compares four topic-modelling approaches on a dataset of **3.5 million Substack posts** to establish a reliable thematic map of newsletter content and uncover broader publishing patterns.
@@ -120,6 +122,11 @@ pip install -r app/requirements.txt
 ```
 
 ## Usage
+
+### Live Demo
+Explore the interactive dashboard online without any setup:
+
+**[🚀 View Live Demo](https://substack-topic-modelling-comparison-a9tahluuxg8pvf8grjzzwc.streamlit.app/)**
 
 ### Jupyter Notebooks
 
